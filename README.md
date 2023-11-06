@@ -1,10 +1,11 @@
 # NLA_project
-Comparison of different variations of the SVD method.  
 
-Performed by:  
+**Topic:** Comparison of matrix decompositions for recommendation systems  
+
+**Performed by:**  
 - Сергей Грозный
 - Роман Кравченко
 - Шмыголь Дмитрий
 - Александра Симонова
 
-Team: Алгебраический эксадрон
+**Team:** Алгебраический эксадрон
